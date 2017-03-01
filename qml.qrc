@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Imagen/APP.png</file>
+        <file>Imagen/AYUDA.png</file>
+        <file>Imagen/ESPECIALES.png</file>
+        <file>Imagen/INGRESO.png</file>
+        <file>Imagen/LIBRES.png</file>
+        <file>Imagen/MENSUALIDAD.png</file>
+        <file>Imagen/MENSUALIDADES.png</file>
+        <file>Imagen/PROHIBIDO.png</file>
+        <file>Imagen/RECIBO.png</file>
+        <file>Imagen/TIEMPO.png</file>
+        <file>ButtonsRect.qml</file>
+        <file>Background.qml</file>
+        <file>Imagen/strips.png</file>
+        <file>Ingreso.qml</file>
+        <file>Mensualidad.qml</file>
+        <file>Copias.qml</file>
+        <file>Tiempo.qml</file>
+        <file>Ayuda.qml</file>
+    </qresource>
+</RCC>
